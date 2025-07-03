@@ -6,6 +6,12 @@
 
 ---
 
+## **⚠️ Aviso Importante**  
+Este repositório contém materiais desenvolvidos **exclusivamente para fins acadêmicos**.  
+**Não é autorizada a reprodução, distribuição ou uso comercial** do conteúdo sem consentimento expresso do autor.  
+
+---
+
 ## **📌 Descrição do Projeto**  
 Este repositório contém os artefatos desenvolvidos para o trabalho acadêmico **"Proposta de Modelagem de Dados para Otimização de Respostas a Incidentes de Segurança Cibernética no Setor da Saúde"**, realizado no curso de Engenharia de Software (UNIASSELVI).  
 
