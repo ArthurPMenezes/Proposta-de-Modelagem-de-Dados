@@ -80,9 +80,6 @@ O modelo aborda lacunas críticas como **fragmentação de dados** e **vulnerabi
 
 **🔗 Acesse o [Resumo Expandido](Resumo%20Expandido.pdf) para detalhes completos do projeto.**  
 
----  
-*Licença: Creative Commons Attribution 4.0 (CC-BY-4.0).*  
-
 --- 
 
 ### **🎯 Destaques do Projeto**  
